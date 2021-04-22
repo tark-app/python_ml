@@ -9,3 +9,5 @@ scorr_credit -задача кредитного  скорринга
 Различные задачи - различные задачи в Python
 
 sentiment analysis neural network - анализ тональности с помощью нейронной сети
+
+CNN for classification and detection - сверточная нейронная сеть для классификации и детекции объектов
